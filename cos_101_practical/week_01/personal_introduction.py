@@ -1,7 +1,0 @@
-print("PERSONAL INTRODUCTION")
-print("NAME: UDOH MFONISO MBUOTIDEM")
-print("MATRIC NO: VUG/SEN/26/16031")
-print("PROGRAMME: SOFTWARE ENGINEERING")
-print("LEVEL: 100 level")
-print()
-print("REASON OF STUDY: I am learning programming because i want to solve problems")
